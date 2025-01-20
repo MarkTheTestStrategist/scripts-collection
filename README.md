@@ -1,5 +1,5 @@
-# BatchFiles
-A collection of batch files for automating tasks, software installations, and streamlining processes.
+# BatchFiles & PowerShell Scripts
+A collection of batch & powershell files for automating tasks, software installations, and streamlining processes.
 
 ## Install Chocolaty (.bat)
 To use my other scripts that install software, you will need to install Chocolaty first, which is easily done using this script. 
