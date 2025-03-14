@@ -11,7 +11,7 @@ Load your favourite programmes every time you restart your PC/Laptop. Simply add
 This is to be used as a getting started template.
 
 ## VM2VM Firewall Bypass (.ps1)
-This allows you to add specific services that can bypass the firewall. 
+This allows you to add specific services that can bypass the firewall on two VM's.
 
 ## Install Software For Testing New Laptop (.ps1)
 This will install the following :-
