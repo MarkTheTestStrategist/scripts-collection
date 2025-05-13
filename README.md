@@ -38,10 +38,11 @@ Automate the setup of your development environment with a one-stop PowerShell sc
 - Visual Studio 2022 Professional
 - Visual Studio Code
 - GitKraken
-- Git Bash
+- Linqpad
 
 #### Coding Packages
 - Node.js
+- git
 
 #### Database Software
 - SQL Server Management Studio (SSMS)
@@ -49,11 +50,11 @@ Automate the setup of your development environment with a one-stop PowerShell sc
 
 #### Communication Tools
 - Zoom
-- Microsoft Teams
 - Slack
 
 #### Container Tools
 - Docker Desktop
+- Azure Storage Container Emulator
 
 #### Pipeline Utilities
 - Azure CLI
@@ -87,8 +88,8 @@ Automate the setup of your development environment with a one-stop PowerShell sc
 #### Diagramming & Visualization
 - DrawIO
 
-#### Task Management & Productivity
-- TickTick
+### Logging
+- Seq
 
 Simply run the script in an elevated session to install all the software needed for your new laptop setup.
 
