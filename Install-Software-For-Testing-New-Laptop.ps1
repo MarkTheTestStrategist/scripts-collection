@@ -43,8 +43,10 @@ $softwareList = @(
     "vscode",
     "nodejs",
     "visualstudio2022professional",
+	"vscode",
     "postman",
     "sql-server-management-studio",
+	"choco install sql-server-express",
     "docker-desktop",
     "kubernetes-helm",
     "azure-cli",
@@ -52,11 +54,20 @@ $softwareList = @(
     "fiddler",
     "servicebusexplorer",
     "firefox",
+	"googlechrome",
+	"microsoft-edge",
+	"opera",
     "drawio",
     "pycharm-community",
     "azurestorageemulator",
     "seq",
-    "linqpad"
+    "linqpad",
+	"zoom",
+	"slack",
+	"snagit",
+	"sharex",
+	"powertoys",
+	"pycharm-community"
 )
 
 # Install each application
