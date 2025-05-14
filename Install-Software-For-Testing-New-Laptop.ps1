@@ -66,8 +66,7 @@ $softwareList = @(
 	"slack",
 	"snagit",
 	"sharex",
-	"powertoys",
-	"pycharm-community"
+	"powertoys"
 )
 
 # Install each application
