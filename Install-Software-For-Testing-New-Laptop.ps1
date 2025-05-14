@@ -46,7 +46,7 @@ $softwareList = @(
 	"vscode",
     "postman",
     "sql-server-management-studio",
-	"choco install sql-server-express",
+	"sql-server-express",
     "docker-desktop",
     "kubernetes-helm",
     "azure-cli",
