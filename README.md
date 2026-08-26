@@ -14,6 +14,7 @@ A curated collection of Batch and PowerShell scripts to automate tasks, install 
   - [Windows Startup (.bat)](#windows-startup-bat)
   - [Checkout Specific Branch Prune (.bat)](#checkout-specific-branch-prune-bat)
   - [Drop Databases (.ps1)](#drop-databases-ps1)
+  - [Check if a directory exists & add it if it doesn't (.bat)](#Check-If-Dir-Exists.bat)
 
 ---
 
