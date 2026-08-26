@@ -36,7 +36,7 @@ This script installs [Chocolatey](https://chocolatey.org/), a prerequisite for m
 ---
 
 ### Install Software for Testing a New Laptop (.ps1)
-🔗 [Install-Software-For-Testing-New-Laptop.ps1](scripts\Install-Software-For-Testing-New-Laptop.ps1)
+🔗 [Install-Software-For-Testing-New-Laptop.ps1](scripts/Install-Software-For-Testing-New-Laptop.ps1)
 
 Automate the setup of your development environment with a one-stop PowerShell script to install essential tools and applications. The script includes installations for:
 
@@ -102,7 +102,7 @@ Simply run the script in an elevated session to install all the software needed 
 ---
 
 ### VM-to-VM Firewall Bypass (.ps1)
-🔗 [VM2VM-Firewall-Bypass.ps1](scripts\VM2VM-Firewall-Bypass.ps1)
+🔗 [VM2VM-Firewall-Bypass.ps1](scripts/VM2VM-Firewall-Bypass.ps1)
 
 This script facilitates firewall bypass configuration between two virtual machines by adding specific services to a whitelist.  
 **Usage:**  
@@ -114,7 +114,7 @@ This script facilitates firewall bypass configuration between two virtual machin
 ## Batch Files
 
 ### Windows Startup (.bat)
-🔗 [Windows-Startup.bat](scripts\Windows-Startup.bat)
+🔗 [Windows-Startup.bat](scripts/Windows-Startup.bat)
 
 Keep your preferred applications launching on system startup.  
 **Usage:**  
@@ -124,7 +124,7 @@ Keep your preferred applications launching on system startup.
 ---
 
 ### Checkout Specific Branch Prune (.bat)
-🔗 [checkout-branch-and-update.bat](scripts\checkout-branch-and-update.bat)
+🔗 [checkout-branch-and-update.bat](scripts/checkout-branch-and-update.bat)
 
 Streamline your development workflow with this Git helper script. It performs the following tasks:
 - Navigates to the specified directory.
@@ -141,7 +141,7 @@ Streamline your development workflow with this Git helper script. It performs th
 ---
 
 ### Drop Databases (.ps1)
-🔗 [DropDatabases.ps1](DropDatabases.ps1)
+🔗 [DropDatabases.ps1](scripts/DropDatabases.ps1)
 
 This PowerShell script safely removes unwanted databases on your local machine.  
 **How It Works:**  
