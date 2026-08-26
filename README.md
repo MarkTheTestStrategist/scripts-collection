@@ -15,6 +15,7 @@ A curated collection of Batch and PowerShell scripts to automate tasks, install 
   - [Checkout Specific Branch Prune (.bat)](#checkout-specific-branch-prune-bat)
   - [Drop Databases (.ps1)](#drop-databases-ps1)
   - [Check if a directory exists & add it if it doesn't (.bat)](#Check-If-Dir-Exists.bat)
+- [Batch & Powershell How To Guides](#batch-how-to-guides)
 
 
 ---
@@ -22,21 +23,21 @@ A curated collection of Batch and PowerShell scripts to automate tasks, install 
 ## PowerShell Scripts
 
 ### Install Chocolatey (.bat)
-🔗 [Install-Chocolaty.bat](scripts\Install-Chocolaty.bat)
+🔗 [Install-Chocolaty.bat](scripts/batch/Install-Chocolaty.bat)
 
 This script installs [Chocolatey](https://chocolatey.org/), a prerequisite for many software installation processes.  
 **Usage:**  
 - Run the script in an elevated (Administrator) PowerShell session.
 
 > **Note:**  
-> The [*NewStarterInstall*](scripts\NewStarterInstall) folder now includes everything you need. Simply clone this folder along with its contents, then execute [install-software.ps1](../NewStarterInstall/install-software.ps1) in admin mode. 
+> The [*NewStarterInstall*](scripts/powershell/NewStarterInstall) folder now includes everything you need. Simply clone this folder along with its contents, then execute [install-software.ps1](scripts/powershell/newStarterInstall/install-software.ps1) in admin mode. 
 >
 >This script will automatically install Chocolatey as a prerequisite before proceeding with further software installation.
 
 ---
 
 ### Install Software for Testing a New Laptop (.ps1)
-🔗 [Install-Software-For-Testing-New-Laptop.ps1](scripts/Install-Software-For-Testing-New-Laptop.ps1)
+🔗 [Install-Software-For-Testing-New-Laptop.ps1](scripts/powershell/Install-Software-For-Testing-New-Laptop.ps1)
 
 Automate the setup of your development environment with a one-stop PowerShell script to install essential tools and applications. The script includes installations for:
 
@@ -102,7 +103,7 @@ Simply run the script in an elevated session to install all the software needed 
 ---
 
 ### VM-to-VM Firewall Bypass (.ps1)
-🔗 [VM2VM-Firewall-Bypass.ps1](scripts/VM2VM-Firewall-Bypass.ps1)
+🔗 [VM2VM-Firewall-Bypass.ps1](scripts/powershell/VM2VM-Firewall-Bypass.ps1)
 
 This script facilitates firewall bypass configuration between two virtual machines by adding specific services to a whitelist.  
 **Usage:**  
@@ -114,7 +115,7 @@ This script facilitates firewall bypass configuration between two virtual machin
 ## Batch Files
 
 ### Windows Startup (.bat)
-🔗 [Windows-Startup.bat](scripts/Windows-Startup.bat)
+🔗 [Windows-Startup.bat](scripts/batch/Windows-Startup.bat)
 
 Keep your preferred applications launching on system startup.  
 **Usage:**  
@@ -124,7 +125,7 @@ Keep your preferred applications launching on system startup.
 ---
 
 ### Checkout Specific Branch Prune (.bat)
-🔗 [checkout-branch-and-update.bat](scripts/checkout-branch-and-update.bat)
+🔗 [checkout-branch-and-update.bat](scripts/batch/checkout-branch-and-update.bat)
 
 Streamline your development workflow with this Git helper script. It performs the following tasks:
 - Navigates to the specified directory.
@@ -141,7 +142,7 @@ Streamline your development workflow with this Git helper script. It performs th
 ---
 
 ### Drop Databases (.ps1)
-🔗 [DropDatabases.ps1](scripts/DropDatabases.ps1)
+🔗 [DropDatabases.ps1](scripts/powershell/DropDatabases.ps1)
 
 This PowerShell script safely removes unwanted databases on your local machine.  
 **How It Works:**  
@@ -158,7 +159,7 @@ Feel free to adjust the scripts or modify the instructions to better fit your en
 
 ---
 
-## Batch How To Guides
+## Batch & Powershell How To Guides
 - [How to open Chrome profile in batch file](howtoguides/How-to-open-chrome-profile-in-batch-file.md)
 - [How to open VS project](howtoguides/How-to-open-vs-project.md)
 - [How to open PowerShell and change directory](howtoguides/How-to-open-powershell-and-change-directory.md)
