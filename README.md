@@ -159,6 +159,6 @@ Feel free to adjust the scripts or modify the instructions to better fit your en
 ---
 
 ## Batch How To Guides
-- [How to open chrome profile in batch file](howtoguides\How-to-open-chrome-profile-in-batch-file.md)
-- [How-to-open-vs-project.md](howtoguides\How-to-open-vs-project.md)
-- [How-to-open-powershell-and-change-directory.md](How-to-open-powershell-and-change-directory.md)
+- [How to open Chrome profile in batch file](howtoguides/How-to-open-chrome-profile-in-batch-file.md)
+- [How to open VS project](howtoguides/How-to-open-vs-project.md)
+- [How to open PowerShell and change directory](howtoguides/How-to-open-powershell-and-change-directory.md)
