@@ -16,6 +16,7 @@ A curated collection of Batch and PowerShell scripts to automate tasks, install 
   - [Drop Databases (.ps1)](#drop-databases-ps1)
   - [Check if a directory exists & add it if it doesn't (.bat)](#Check-If-Dir-Exists.bat)
 
+
 ---
 
 ## PowerShell Scripts
@@ -146,3 +147,8 @@ This PowerShell script safely removes unwanted databases on your local machine.
 ---
 
 Feel free to adjust the scripts or modify the instructions to better fit your environment or preferences. Happy automating!
+
+---
+
+## Batch How To Guides
+- [How to open chrome profile in batch file](How-to-open-chrome-profile-in-batch-file.md)
