@@ -1,4 +1,13 @@
 REM # Comment out any you dont want to launch using 'REM'
+REM # This includes the command to start applications maximised.
+REM # To open your startup folder instantly, press [WIN] key + R to open the Run dialog box.
+REM # Type "shell:startup" and press enter.
+REM # Any program shortcut placed here will be automatically launched and that includes batch and powershell files.
+REM # The full directory path for your personal profile is "C:\Users\{username}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup".
+REM # For a folder that launches applications for all users on the PC, use the Run dialog and type "shell:common startup" instead.
+REM #  The directory for all users is located at "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
+
+
 echo off
 title "Open Favourite Programs"
 echo Load Evernote
